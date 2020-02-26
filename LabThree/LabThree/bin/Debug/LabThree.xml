@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LabThree
+</name>
+</assembly>
+<members>
+<member name="T:LabThree.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LabThree.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LabThree.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:LabThree.frmAverageUnitsShipped.frmAverageUnitsShipped_Load(System.Object,System.EventArgs)">
+ <summary>
+ When the form loads, initialize the arrays
+ </summary>
+</member>
+<member name="M:LabThree.frmAverageUnitsShipped.btnEnter_Click(System.Object,System.EventArgs)">
+ <summary>
+ When btnEnter is clicked receive and validate input, then output it into the appropriate control
+ </summary>
+</member>
+<member name="M:LabThree.frmAverageUnitsShipped.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Exit the form when btnExit is pressed
+ </summary>
+</member>
+<member name="M:LabThree.frmAverageUnitsShipped.btnReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Call the Reset() sub procedure when btnReset is pressed
+ </summary>
+</member>
+<member name="M:LabThree.frmAverageUnitsShipped.Reset">
+ <summary>
+ Reset the form
+ </summary>
+</member>
+<member name="M:LabThree.frmAverageUnitsShipped.ClearControls(System.Windows.Forms.Control[])">
+ <summary>
+ Use a For Each loop to clear controls
+ </summary>
+</member>
+</members>
+</doc>

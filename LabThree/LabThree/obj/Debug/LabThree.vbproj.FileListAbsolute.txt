@@ -1,0 +1,12 @@
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\bin\Debug\LabThree.exe.config
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\bin\Debug\LabThree.exe
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\bin\Debug\LabThree.pdb
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\bin\Debug\LabThree.xml
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\obj\Debug\LabThree.vbprojAssemblyReference.cache
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\obj\Debug\LabThree.frmAverageUnitsShipped.resources
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\obj\Debug\LabThree.Resources.resources
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\obj\Debug\LabThree.vbproj.GenerateResource.cache
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\obj\Debug\LabThree.vbproj.CoreCompileInputs.cache
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\obj\Debug\LabThree.exe
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\obj\Debug\LabThree.xml
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 3\LabThree\LabThree\obj\Debug\LabThree.pdb
