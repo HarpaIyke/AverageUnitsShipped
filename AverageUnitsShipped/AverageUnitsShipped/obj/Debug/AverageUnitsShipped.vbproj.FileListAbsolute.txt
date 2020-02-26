@@ -1,0 +1,12 @@
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.exe.config
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.exe
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.pdb
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.xml
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbprojAssemblyReference.cache
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.Form1.resources
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.Resources.resources
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbproj.GenerateResource.cache
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbproj.CoreCompileInputs.cache
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.exe
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.xml
+D:\Documents\College Work\Semester 2\NETD 2202\Labs\Lab 1\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.pdb
